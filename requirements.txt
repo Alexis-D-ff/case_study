@@ -1,0 +1,9 @@
+category_encoders==2.6.0
+lightgbm==3.3.4
+matplotlib==3.6.3
+numpy==1.24.2
+optuna==3.0.5
+pandas==1.5.3
+plotly==5.13.0
+scikit_learn==1.2.1
+seaborn==0.12.2
